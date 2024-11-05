@@ -17,6 +17,7 @@ Grip length
 <h1>Output:</h1>
 The measurements are displayed, allowing users to record or apply the values for various applications. 
 
-Requirements
+<h1>Requirements</h1>
+
 Python 3.x
 OpenCV for image processing
