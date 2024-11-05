@@ -4,7 +4,7 @@ Hand Length Measurement: Calculates the full length of the hand from the base of
 Trigger Distance: Measures the distance from the base of the hand to a selected point near the finger trigger area, which can be used in designing equipment like firearms or sports equipment.
 Grip Length: Measures the span from the base of the palm to a specified grip point on the fingers, useful in sports or ergonomic design.
 
-<h1>How It Works <h1/>
+<h1>How it works </h1>
   
 Input Image: The user provides an image of their hand, ideally placed alongside a reference object for accurate scaling.
 Image Processing: The program processes the image to identify key landmarks on the hand.
@@ -13,7 +13,8 @@ Hand length
 Trigger distance
 Grip length
 
-Output:
+
+<h1>Output:</h1>
 The measurements are displayed, allowing users to record or apply the values for various applications. 
 
 Requirements
